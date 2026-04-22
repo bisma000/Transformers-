@@ -26,15 +26,48 @@ Nous utilisons le dataset **Financial PhraseBank**, composé de **4837 phrases f
 - ❌ Négatif  
 - ⚪ Neutre  
 
+
 ---
 
+## 📁 Description des fichiers
 
-### 📁 Description des dossiers
+### 📓 notebooks/
 
-- **notebooks/** : démonstrations et tests (FinBERT, attention, etc.)
-- **data/** : dataset utilisé pour l’analyse
-- **src/** : scripts Python (préprocessing, modèle)
-- **README.md** : description du projet
+- **finbert_demo.ipynb**  
+  → Démo principale : l’utilisateur entre une phrase et FinBERT prédit le sentiment en direct.
+
+- **bert_vs_finbert.ipynb**  
+  → Comparaison entre un modèle généraliste (BERT) et FinBERT sur des phrases financières.
+
+- **attention_explanation.ipynb**  
+  → Explication du mécanisme d’attention avec des exemples simples.
+
+---
+
+### 📊 data/
+
+- **financial_phrasebank.csv**  
+  → Dataset contenant des phrases financières annotées (positif, négatif, neutre).
+
+---
+
+### 🧠 src/
+
+- **preprocess.py**  
+  → Nettoyage et préparation des données (tokenisation, formatage).
+
+- **inference.py**  
+  → Script pour charger FinBERT et prédire le sentiment d’un texte.
+
+---
+
+### 📄 Fichiers principaux
+
+- **README.md**  
+  → Présentation du projet, explications et instructions.
+
+- **requirements.txt**  
+  → Liste des dépendances nécessaires (transformers, torch, etc.).
 
 ## 🤖 Modèle utilisé
 
