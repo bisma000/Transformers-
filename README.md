@@ -28,6 +28,14 @@ Nous utilisons le dataset **Financial PhraseBank**, composé de **4837 phrases f
 
 ---
 
+
+### 📁 Description des dossiers
+
+- **notebooks/** : démonstrations et tests (FinBERT, attention, etc.)
+- **data/** : dataset utilisé pour l’analyse
+- **src/** : scripts Python (préprocessing, modèle)
+- **README.md** : description du projet
+
 ## 🤖 Modèle utilisé
 
 **FinBERT** — https://huggingface.co/ProsusAI/finbert
