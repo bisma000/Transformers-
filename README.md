@@ -46,28 +46,11 @@ Nous utilisons le dataset **Financial PhraseBank**, composé de **4837 phrases f
 
 ### 📊 data/
 
-- **financial_phrasebank.csv**  
+- **all_data.csv**  
   → Dataset contenant des phrases financières annotées (positif, négatif, neutre).
 
 ---
 
-### 🧠 src/
-
-- **preprocess.py**  
-  → Nettoyage et préparation des données (tokenisation, formatage).
-
-- **inference.py**  
-  → Script pour charger FinBERT et prédire le sentiment d’un texte.
-
----
-
-### 📄 Fichiers principaux
-
-- **README.md**  
-  → Présentation du projet, explications et instructions.
-
-- **requirements.txt**  
-  → Liste des dépendances nécessaires (transformers, torch, etc.).
 
 ## 🤖 Modèle utilisé
 
