@@ -86,4 +86,7 @@ pip install transformers torch
 ---
 
 ## 👥 Auteurs
-
+Clément Ducasse 
+Bisma Mughal 
+Nour Azabi
+Alex Pichon 
