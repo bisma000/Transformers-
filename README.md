@@ -79,9 +79,33 @@ pip install transformers torch
 
 ## 🔗 Références
 
-- Vaswani, A. et al. (2017). *Attention Is All You Need*.  
-- Devlin, J. et al. (2018). *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*.  
-- Araci, D. (2019). *FinBERT: Financial Sentiment Analysis with BERT*.  
+## 📚 References
+
+### Articles scientifiques
+- Vaswani et al. (2017) — *Attention Is All You Need*  
+  https://arxiv.org/abs/1706.03762  
+
+- Devlin et al. (2018) — *BERT: Pre-training of Deep Bidirectional Transformers*  
+
+- Araci (2019) — *FinBERT: Financial Sentiment Analysis with BERT*  
+
+---
+
+### Ressources pédagogiques
+- DataCamp — How Transformers Work  
+  https://www.datacamp.com/tutorial/how-transformers-work  
+
+- Hivenet — Simplifying Transformer Architecture  
+  https://compute.hivenet.com/post/simplifying-transformer-architecture-a-beginners-guide-to-understanding-ai-magic  
+
+- Devoteam — Comprendre les Transformers  
+  https://www.devoteam.com/fr/expert-view/attention-is-all-you-need-comprendre-le-traitement-naturel-du-langage-avec-les-modeles-transformers/  
+
+- Captain Marketing — Architecture Transformer  
+  https://blog.captainmarketing.io/architecture-transformer/  
+
+- Wikipedia — Transformer (deep learning)  
+  https://fr.wikipedia.org/wiki/Transformeur   
 
 ---
 
